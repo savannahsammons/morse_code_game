@@ -1,0 +1,15 @@
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\bin\Debug\net8.0-windows\MorseCodeGame.exe
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\bin\Debug\net8.0-windows\MorseCodeGame.deps.json
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\bin\Debug\net8.0-windows\MorseCodeGame.runtimeconfig.json
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\bin\Debug\net8.0-windows\MorseCodeGame.dll
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\bin\Debug\net8.0-windows\MorseCodeGame.pdb
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.AssemblyInfoInputs.cache
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.AssemblyInfo.cs
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.csproj.CoreCompileInputs.cache
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.sourcelink.json
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.dll
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\refint\MorseCodeGame.dll
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.pdb
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\MorseCodeGame.genruntimeconfig.cache
+C:\Users\ssamm\OneDrive\Documents\Morse Code Game\morse_code_game\MorseCodeGame\obj\Debug\net8.0-windows\ref\MorseCodeGame.dll
