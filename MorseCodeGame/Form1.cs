@@ -6,10 +6,12 @@ public partial class Form1 : Form
     public Form1()
     {
         InitializeComponent();
+        Console.WriteLine("Form1 is being initialized...");
 
         // Set the background image
-        this.BackgroundImage = Image.FromFile("Assets/pilots.jpg");
-        this.BackgroundImageLayout = ImageLayout.Stretch;
+        this.BackColor = Color.Black;
+        this.BackgroundImage = Image.FromFile("images/pilots_in_cockpit.png");
+        this.BackgroundImageLayout = ImageLayout.Zoom;
 
         // Create and configure the label
         instructionLabel = new Label

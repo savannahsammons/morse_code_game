@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MorseCodeGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5343fadec90666356673791b439925115e07715a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c340ee856185759a7f74ff744ad75606d44cf024")]
 [assembly: System.Reflection.AssemblyProductAttribute("MorseCodeGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MorseCodeGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
